@@ -4,7 +4,7 @@ loving_Bangladesh = 1360710350
 TotalSeller = 830000
 ActiveSeller = 255000
 
-#Bangladeshi Traffic 8%
+#Bangladeshi Traffic 7.5 to 8%
 bangladesgiTraffic = 8
 
 
